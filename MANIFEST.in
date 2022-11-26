@@ -1,4 +1,4 @@
 include README.md
-recursive-include filament_scale_enhanced/templates *
-recursive-include filament_scale_enhanced/translations *
-recursive-include filament_scale_enhanced/static *
+recursive-include filament_scale_enhanced-2nd/templates *
+recursive-include filament_scale_enhanced-2nd/translations *
+recursive-include filament_scale_enhanced-2nd/static *
